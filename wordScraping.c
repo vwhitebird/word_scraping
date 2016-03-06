@@ -9,7 +9,7 @@
 #define WEBSITE " http://www.urbandictionary.com"
 
 
-/* Valerie Whitebird
+/* 
  * Word Scraping
  */
 
