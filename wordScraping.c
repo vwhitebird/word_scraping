@@ -5,7 +5,6 @@
 
 #define CURL "curl"
 #define PIPE_GREP "| grep -i \"<a class=.popular.\" >> "
-//#define PIPE_SED  "| sed -n \"/<div class='meaning'>/,/</div>/p\""
 #define WEBSITE " http://www.urbandictionary.com"
 
 #define PIPE_SED  "| sed -n '/<div class=.meaning.>/,/<.div>/p' >> "
